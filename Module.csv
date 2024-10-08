@@ -1,0 +1,20 @@
+modul_id;name;etcs
+DLBBIM01;Artificial Intelligence;5
+DLBBIMD01;Einführung in das wissenschaftliche Arbeiten für IT und Technik;5
+DLBDSCC01_D;Mathematik: Analysis;5
+DLBDSIPWP01_D;Objektorientierte und funktionale Programmierung mit Python;5
+DLBDSOOFPP01_D;Mathematik: Lineare Algebra;5
+DLBDSSIS01_D;Statistik - Schließende Statistik;5
+DLBDSSPDS01_D;Cloud Computing;5
+DLBKA01;Maschinelles Lernen - Supervised Learning;5
+DLBSEPCP01_D;Maschinelles Lernen - Unsupervised Learning und Feature Engineering;5
+DLBBIM02;Einführung in Computer Vision;5
+DLBBIMD02;Projekt: Computer Vision;5
+DLBDSIPWP01_D;Einführung in NLP;5
+DLBDSOOFPP01_D;Projekt: NLP;5
+DLBDSSIS01_D;Einführung in Datenschutz und IT-Sicherheit;5
+DLBDSSPDS01_D;Data Science Software Engineering;5
+DLBIHK02;Projekt: Vom Modell zum Produktvertrieb;5
+DLBSEPCP01_D;User Experience;5
+DLBBIM03;UX-Projekt ODER Projekt: Edge AI;5
+DLBDSIPWP01_D;Bachelorarbeit;10
