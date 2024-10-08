@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Dieses Projekt stellt ein **Dashboard** zur Verfügung, mit dem Studenten des Studiengangs "Angewandte Künstliche Intelligenz" der IU ihre Modulbuchungen verwalten und ihren Fortschritt überwachen können. Das Dashboard zeigt:
+Dieses Projekt stellt ein **Dashboard** zur Verfügung, mit dem Studenten des Studiengangs "Angewandte Künstliche Intelligenz" ihre Modulbuchungen verwalten und ihren Fortschritt überwachen können. Das Dashboard zeigt:
 1. Einen **Fortschrittsbalken**, der den Anteil der erreichten ECTS-Punkte im Studium anzeigt.
 2. Ein **Tortendiagramm**, das die Anzahl der Prüfungsversuche für jedes Modul visualisiert.
 
