@@ -17,7 +17,7 @@ Damit das Dashboard funktioniert, müssen folgende Voraussetzungen erfüllt sein
 Folge diesen Schritten, um das Dashboard auszuführen:
 
 1. **Lade das Projekt herunter** oder **klone es aus deinem Repository**.
-2. Stelle sicher, dass die Dateien `Dashboard_Code.py` und `start_dashboard.bat` sich im gleichen Verzeichnis befinden.
+2. Stelle sicher, dass alle Dateien sich im gleichen Verzeichnis befinden.
 3. Doppelklicke auf die Datei `start_dashboard.bat`.
 
 ### Was passiert beim Ausführen der `.bat` Datei?
