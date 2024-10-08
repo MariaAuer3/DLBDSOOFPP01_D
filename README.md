@@ -42,6 +42,5 @@ Falls es zu Problemen kommt:
 - Stelle sicher, dass die CSV-Dateien korrekt formatiert und vorhanden sind.
 - Überprüfe die Konsolenausgabe (das Fenster bleibt nach dem Start offen), um eventuelle Fehler oder Hinweise zu sehen.
 
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert.
+Viel Spass beim Testen!
+Maria Auer
